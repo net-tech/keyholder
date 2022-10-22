@@ -29,11 +29,11 @@ This is a question I can't answer for you. You are free to invite Keyholder when
 
 #### Who can access the key of a Staff Member?
 
-After it's been created? No one. Before going into the database, all keys are generated randomly and are [hashed](https://www.techtarget.com/searchdatamanagement/definition/hashing). The key is only shown to the Staff Member once and never after. Server admins cannot regenerate the key.
+After it's been created? No one. Before entering the database, all keys are generated randomly and are [hashed](https://www.techtarget.com/searchdatamanagement/definition/hashing). The key is only shown to the Staff Member once and never after. Server admins cannot regenerate the key.
 
 #### What do keys look like?
 
-Keys are 16-character long alphanumerical uppercase and lowercase texts. An example key, `saXo7RlfRig0PRaK` would take 173 billion years to crack.
+Keys are 16 to 19-character long alphanumerical uppercase and lowercase texts. An example key, `saXo7RlfRig0PRaK` would take 173 billion years to crack.
 
 ## Installation
 
