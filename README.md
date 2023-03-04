@@ -1,3 +1,8 @@
+This repository is part of our Buape Accelerate program, a program designed to provide developers with the resources and mentorship they need to rapidly advance their projects and succeed in their careers.
+Learn more by <a href="https://go.buape.com/accelerate">clicking here</a>!
+
+<hr />
+
 <a href="https://ibb.co/Xtw4fXB"><img src="https://i.ibb.co/zZk5Wsc/Keyholder-Bot-Transparent.png" alt="Keyholder-Bot-Transparent" border="0" width="100"></a>
 
 # Keyholder
